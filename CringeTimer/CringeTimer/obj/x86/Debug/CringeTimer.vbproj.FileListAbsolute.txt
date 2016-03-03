@@ -1,0 +1,9 @@
+\\stcfs2\Student_Data\davisc\My Documents\CIS\Projects\CringeTimer\CringeTimer\bin\Debug\CringeTimer.exe
+\\stcfs2\Student_Data\davisc\My Documents\CIS\Projects\CringeTimer\CringeTimer\bin\Debug\CringeTimer.pdb
+\\stcfs2\Student_Data\davisc\My Documents\CIS\Projects\CringeTimer\CringeTimer\bin\Debug\CringeTimer.xml
+\\stcfs2\Student_Data\davisc\My Documents\CIS\Projects\CringeTimer\CringeTimer\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\stcfs2\Student_Data\davisc\My Documents\CIS\Projects\CringeTimer\CringeTimer\obj\x86\Debug\WindowsApplication1.frmMain.resources
+\\stcfs2\Student_Data\davisc\My Documents\CIS\Projects\CringeTimer\CringeTimer\obj\x86\Debug\CringeTimer.vbproj.GenerateResource.Cache
+\\stcfs2\Student_Data\davisc\My Documents\CIS\Projects\CringeTimer\CringeTimer\obj\x86\Debug\CringeTimer.exe
+\\stcfs2\Student_Data\davisc\My Documents\CIS\Projects\CringeTimer\CringeTimer\obj\x86\Debug\CringeTimer.xml
+\\stcfs2\Student_Data\davisc\My Documents\CIS\Projects\CringeTimer\CringeTimer\obj\x86\Debug\CringeTimer.pdb
